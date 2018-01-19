@@ -6,3 +6,4 @@ Everyone should create their own branch to edit this!
 | ---- 			 | ------------ | ------------------------- |
 | Mark Sherriff  | mss2x 	    | Took Sammy to first UVA basketball game            |
 | Hunter Murphy  | bhm5zr | Played a lot of Mario Kart |
+| Shabad Sobti  | sss5fy | Went back home to India |
