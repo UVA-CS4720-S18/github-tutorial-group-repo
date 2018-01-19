@@ -11,3 +11,4 @@ Everyone should create their own branch to edit this!
 | Nanzhu chen | nc2ta | Conducted a tour of (parts of) DC for my Aussie mate. |
 | Joshua Ya | jy2xj | Went to Museum of the Bible in DC with my family |
 | Franklin Amaya | fa8ey | Took a j-term in North Carolina |
+| Cynthia Cabrera | csc5nz | Took a j-term class |
