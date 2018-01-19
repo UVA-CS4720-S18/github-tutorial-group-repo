@@ -8,3 +8,4 @@ Everyone should create their own branch to edit this!
 | Hunter Murphy  | bhm5zr | Played a lot of Mario Kart |
 | Michael Venter | myv4me | Went to New Zealand, found a rather suspicious ring.   |
 | Susannah Jones | msj6nb | Visited the west coast (San Francisco) for the first time |
+| Nanzhu chen | nc2ta | Conducted a tour of (parts of) DC for my Aussie mate. |
