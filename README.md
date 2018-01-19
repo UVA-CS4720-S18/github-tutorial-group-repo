@@ -13,3 +13,6 @@ Everyone should create their own branch to edit this!
 | Joshua Ya | jy2xj | Went to Museum of the Bible in DC with my family |
 | Franklin Amaya | fa8ey | Took a j-term in North Carolina |
 | Tyler Handley | tmh6de | Played games with family and housesit (sat?) a puppy |
+| Shabad Sobti  | sss5fy | Went back home to India |
+
+
