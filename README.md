@@ -16,5 +16,7 @@ Everyone should create their own branch to edit this!
 | Shabad Sobti  | sss5fy | Went back home to India |
 | Brady Zhang  | bwz3kt | Learned web development at an internship |
 | Lucas Abelanet | loa7ep | Was in Paris under the rain |
+| Sajal Rohatgi | sr9se | Was in San Francisco and Monterey escaping the cold |
+
 
 
