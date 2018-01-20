@@ -17,6 +17,4 @@ Everyone should create their own branch to edit this!
 | Brady Zhang  | bwz3kt | Learned web development at an internship |
 | Lucas Abelanet | loa7ep | Was in Paris under the rain |
 | Sajal Rohatgi | sr9se | Was in San Francisco and Monterey escaping the cold |
-
-
-
+| Cynthia Cabrera | csc5nz | Took a j-term class |
