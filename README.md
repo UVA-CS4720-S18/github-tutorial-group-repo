@@ -18,3 +18,4 @@ Everyone should create their own branch to edit this!
 | Lucas Abelanet | loa7ep | Was in Paris under the rain |
 | Sajal Rohatgi | sr9se | Was in San Francisco and Monterey escaping the cold |
 | Cynthia Cabrera | csc5nz | Took a j-term class |
+| Amanda Nguyen | ann6vr | Got my wisdom teeth removed |
