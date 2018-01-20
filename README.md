@@ -15,5 +15,6 @@ Everyone should create their own branch to edit this!
 | Tyler Handley | tmh6de | Played games with family and housesit (sat?) a puppy |
 | Shabad Sobti  | sss5fy | Went back home to India |
 | Brady Zhang  | bwz3kt | Learned web development at an internship |
+| Lucas Abelanet | loa7ep | Was in Paris under the rain |
 
 
