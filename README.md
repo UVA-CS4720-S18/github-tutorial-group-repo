@@ -19,3 +19,4 @@ Everyone should create their own branch to edit this!
 | Sajal Rohatgi | sr9se | Was in San Francisco and Monterey escaping the cold |
 | Cynthia Cabrera | csc5nz | Took a j-term class |
 | Amanda Nguyen | ann6vr | Got my wisdom teeth removed |
+| Philip Yu | pcy7nd | Went to Myrtle Beach |
