@@ -24,3 +24,4 @@ Everyone should create their own branch to edit this!
 | Vamshi Garikapati | vkg5xt | Binge watched Netflix and learned some Swift |
 | Sara Inglis | ski5uc | Worked at my internship from last summer |
 | Daniel Brown  | dsb9ef 	    | Went to Texas to see the FCS Football Championship            |
+|Josie Li | jl9gf | Went snowboarding and skiing.
