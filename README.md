@@ -26,3 +26,4 @@ Everyone should create their own branch to edit this!
 | Daniel Brown  | dsb9ef 	    | Went to Texas to see the FCS Football Championship            |
 |Josie Li | jl9gf | Went snowboarding and skiing.
 |James Fay | jrf6xh | Went skiing |
+| Travis Moe | tbm4xd | Had heart surgery |
