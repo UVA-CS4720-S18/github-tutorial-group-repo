@@ -27,3 +27,4 @@ Everyone should create their own branch to edit this!
 |Josie Li | jl9gf | Went snowboarding and skiing.
 |James Fay | jrf6xh | Went skiing |
 | Travis Moe | tbm4xd | Had heart surgery |
+| Patrick Myers | pem5rm | Spent time with family |
