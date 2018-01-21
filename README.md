@@ -22,4 +22,4 @@ Everyone should create their own branch to edit this!
 | Amanda Nguyen | ann6vr | Got my wisdom teeth removed |
 | Philip Yu | pcy7nd | Went to Myrtle Beach |
 | Vamshi Garikapati | vkg5xt | Binge watched Netflix and learned some Swift |
-| Sara Inglis | ski5uc | Worked at internship from last summer |
+| Sara Inglis | ski5uc | Worked at my internship from last summer |
