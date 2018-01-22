@@ -32,5 +32,6 @@ Everyone should create their own branch to edit this!
 | Charles Buyas | cjb8qf | 100 Percent Completion on Assassin's Creed: Brotherhood |
 | William Will | wbw4sv | Slept |
 | Andrew Shi	| as4ac	| Went to Japan with friends	|
+| Andrew Smith	| als5ev| Snowboard at Sunday River	|
 | Marina Sanusi | mgs9y | Visited friends in DC and New York |
 | Braeden Wist | bmw2dh | Finally finished Divinity: Original Sin 2 |
