@@ -40,3 +40,4 @@ Everyone should create their own branch to edit this!
 | Paul Arthaud | psa3de | Went skiing a couple times |
 | Gen Schmitt	| gks3bx | Went to Michigan to visit friends |
 | Robert Fox	| rjf6tp | Visited friends in New Orleans and Birmingham |
+| Christopher Long | cml3ta | Went to Universal Studios with my family |
