@@ -39,3 +39,4 @@ Everyone should create their own branch to edit this!
 | Katherine Yan | kjy2kh | Went snowboarding in Vermont |
 | Paul Arthaud | psa3de | Went skiing a couple times |
 | Gen Schmitt	| gks3bx | Went to Michigan to visit friends |
+| Robert Fox	| rjf6tp | Visited friends in New Orleans and Birmingham |
