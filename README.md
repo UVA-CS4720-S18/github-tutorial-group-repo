@@ -37,3 +37,4 @@ Everyone should create their own branch to edit this!
 | Braeden Wist | bmw2dh | Finally finished Divinity: Original Sin 2 |
 | Claire Veasey | cev4gx | Went to visit my sister and brother-in-law in the UK |
 | Katherine Yan | kjy2kh | Went snowboarding in Vermont |
+| Neel Kaushal |nk3ek| Visited India |
