@@ -34,3 +34,4 @@ Everyone should create their own branch to edit this!
 | Andrew Shi	| as4ac	| Went to Japan with friends	|
 | Marina Sanusi | mgs9y | Visited friends in DC and New York |
 | Braeden Wist | bmw2dh | Finally finished Divinity: Original Sin 2 |
+| Jacques Rebibo | jrr4jq | Went to visit friends in New Orleans |
