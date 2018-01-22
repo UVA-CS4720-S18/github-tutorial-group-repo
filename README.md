@@ -35,3 +35,4 @@ Everyone should create their own branch to edit this!
 | Andrew Smith	| als5ev| Snowboard at Sunday River	|
 | Marina Sanusi | mgs9y | Visited friends in DC and New York |
 | Braeden Wist | bmw2dh | Finally finished Divinity: Original Sin 2 |
+| Claire Veasey | cev4gx | Went to visit my sister and brother-in-law in the UK |
