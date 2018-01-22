@@ -38,3 +38,4 @@ Everyone should create their own branch to edit this!
 | Claire Veasey | cev4gx | Went to visit my sister and brother-in-law in the UK |
 | Katherine Yan | kjy2kh | Went snowboarding in Vermont |
 | Paul Arthaud | psa3de | Went skiing a couple times |
+| Gen Schmitt	| gks3bx | Went to Michigan to visit friends |
