@@ -30,4 +30,5 @@ Everyone should create their own branch to edit this!
 | Patrick Myers | pem5rm | Spent time with family |
 | Graham Rebhun | gwr8xc | Played the new Legend of Zelda on the Switch |
 | Charles Buyas | cjb8qf | 100 Percent Completion on Assassin's Creed: Brotherhood |
+| William Will | wbw4sv | Slept |
 | Andrew Shi	| as4ac	| Went to Japan with friends	|
