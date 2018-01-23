@@ -41,3 +41,4 @@ Everyone should create their own branch to edit this!
 | Gen Schmitt	| gks3bx | Went to Michigan to visit friends |
 | Robert Fox	| rjf6tp | Visited friends in New Orleans and Birmingham |
 | Bhadra Chembukave | bhc9av | Went back to India to visit family | 
+| Sherry Chan | cc4cy | Went back to Hong Kong to visit family and went on vacation to the Maldives |
