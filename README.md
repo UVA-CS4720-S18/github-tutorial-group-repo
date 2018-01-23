@@ -47,4 +47,4 @@ Everyone should create their own branch to edit this!
 | Talia Lee| tl2db | Went to Taiwan |
 | Sun Hwang | syh2qs | Went to Orlando with my friends |
 | Rhea Prahlad | rp8jd | Travelled to Australia to visit family |
-| Jacob Morrison | jlm9ps | Attempted to bring back Vine as a social media outlet |
+| Jacob Morrison | jlm8ps | Attempted to bring back Vine as a social media outlet |
