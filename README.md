@@ -43,3 +43,4 @@ Everyone should create their own branch to edit this!
 | Bhadra Chembukave | bhc9av | Went back to India to visit family | 
 | Sherry Chan | cc4cy | Went back to Hong Kong to visit family and went on vacation to the Maldives |
 | Rossi McCall | rem8aj | Went to England with my family |
+| Talia Lee | tl2db | Went to Taiwan |
