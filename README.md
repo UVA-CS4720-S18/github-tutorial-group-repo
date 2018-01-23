@@ -24,10 +24,22 @@ Everyone should create their own branch to edit this!
 | Vamshi Garikapati | vkg5xt | Binge watched Netflix and learned some Swift |
 | Sara Inglis | ski5uc | Worked at my internship from last summer |
 | Daniel Brown  | dsb9ef 	    | Went to Texas to see the FCS Football Championship            |
-|Josie Li | jl9gf | Went snowboarding and skiing.
-|James Fay | jrf6xh | Went skiing |
+| Josie Li | jl9gf | Went snowboarding and skiing. |
+| James Fay | jrf6xh | Went skiing |
 | Travis Moe | tbm4xd | Had heart surgery |
 | Patrick Myers | pem5rm | Spent time with family |
 | Graham Rebhun | gwr8xc | Played the new Legend of Zelda on the Switch |
 | Charles Buyas | cjb8qf | 100 Percent Completion on Assassin's Creed: Brotherhood |
 | Charles Yu | cy4qn | Went to Shanghai and saw New Year's fireworks in Hong Kong |
+| William Will | wbw4sv | Slept |
+| Andrew Shi	| as4ac	| Went to Japan with friends	|
+| Andrew Smith	| als5ev| Snowboard at Sunday River	|
+| Marina Sanusi | mgs9y | Visited friends in DC and New York |
+| Braeden Wist | bmw2dh | Finally finished Divinity: Original Sin 2 |
+| Claire Veasey | cev4gx | Went to visit my sister and brother-in-law in the UK |
+| Katherine Yan | kjy2kh | Went snowboarding in Vermont |
+| Paul Arthaud | psa3de | Went skiing a couple times |
+| Gen Schmitt	| gks3bx | Went to Michigan to visit friends |
+| Robert Fox	| rjf6tp | Visited friends in New Orleans and Birmingham |
+| Bhadra Chembukave | bhc9av | Went back to India to visit family | 
+| Sherry Chan | cc4cy | Went back to Hong Kong to visit family and went on vacation to the Maldives |
