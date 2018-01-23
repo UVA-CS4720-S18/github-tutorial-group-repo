@@ -42,4 +42,9 @@ Everyone should create their own branch to edit this!
 | Robert Fox	| rjf6tp | Visited friends in New Orleans and Birmingham |
 | Bhadra Chembukave | bhc9av | Went back to India to visit family |
 | Sherry Chan | cc4cy | Went back to Hong Kong to visit family and went on vacation to the Maldives |
-| Patrick Sanders | pts5uu | Went snowboarding for the first time |
+| Rossi McCall | rem8aj | Went to England with my family |
+| Claire Dowling | cmd6rh | Got a puppy! |
+| Talia Lee| tl2db | Went to Taiwan |
+| Sun Hwang | syh2qs | Went to Orlando with my friends |
+| Rhea Prahlad | rp8jd | Travelled to Australia to visit family |
+| Patrick Sanders | pts5uu | Snowboarded for the first time | 
