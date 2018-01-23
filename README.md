@@ -45,4 +45,5 @@ Everyone should create their own branch to edit this!
 | Rossi McCall | rem8aj | Went to England with my family |
 | Claire Dowling | cmd6rh | Got a puppy! |
 | Talia Lee| tl2db | Went to Taiwan |
+| Sun Hwang | syh2qs | Went to Orlando with my friends |
 
