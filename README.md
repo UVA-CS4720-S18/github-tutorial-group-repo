@@ -48,3 +48,4 @@ Everyone should create their own branch to edit this!
 | Sun Hwang | syh2qs | Went to Orlando with my friends |
 | Rhea Prahlad | rp8jd | Travelled to Australia to visit family |
 | Linda Xiong | rx5zv | Cooked
+| Mason Au | mda5uq | went ice fishing
