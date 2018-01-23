@@ -44,3 +44,4 @@ Everyone should create their own branch to edit this!
 | Sherry Chan | cc4cy | Went back to Hong Kong to visit family and went on vacation to the Maldives |
 | Rossi McCall | rem8aj | Went to England with my family |
 | Claire Dowling | cmd6rh | Got a puppy! |
+| Sun Hwang | syh2qs | Went to Orlando with my friends |
