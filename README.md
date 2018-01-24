@@ -60,3 +60,4 @@ Everyone should create their own branch to edit this!
 | Mark Manahan | mmm5ja | Got a mini fridge |
 | James Childress | rjc8kt | I went to St. Lucia with my family. |
 | Dylan Nguyen | dcn3en | Relaxed on a Florida Beach |
+| Roman Sharykin | rs4da | Got rained on in Paris |
