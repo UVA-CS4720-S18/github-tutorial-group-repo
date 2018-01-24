@@ -63,3 +63,4 @@ Everyone should create their own branch to edit this!
 | Roman Sharykin | rs4da | Got rained on in Paris |
 | Taehyun Kim | tk9at | Took J-Term During the break... |
 | Sarah Bland | scb4ga | Coded for social impact |
+| Stephen Read | sjr2dm | went to New York |
