@@ -55,3 +55,4 @@ Everyone should create their own branch to edit this!
 | Debbie Yoo | djy9hq | Traveled to Europe for the first time |
 | Chris Liu | cdl7an | Went to China to visit grandparents | 
 | Nick Taylor | nmt4qr | Bodied some chumps in Rocket League |
+| Mark Manahan | mmm5ja | Got a mini fridge |
