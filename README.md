@@ -49,3 +49,4 @@ Everyone should create their own branch to edit this!
 | Rhea Prahlad | rp8jd | Travelled to Australia to visit family |
 | Linda Xiong | rx5zv | Cooked
 | Mason Au | mda5uq | went ice fishing
+| Jacques Rebibo | jrr4jq | Went to visit friends in New Orleans |
