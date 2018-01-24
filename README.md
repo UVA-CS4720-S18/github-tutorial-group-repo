@@ -40,12 +40,17 @@ Everyone should create their own branch to edit this!
 | Paul Arthaud | psa3de | Went skiing a couple times |
 | Gen Schmitt	| gks3bx | Went to Michigan to visit friends |
 | Robert Fox	| rjf6tp | Visited friends in New Orleans and Birmingham |
-| Bhadra Chembukave | bhc9av | Went back to India to visit family | 
+| Bhadra Chembukave | bhc9av | Went back to India to visit family |
 | Sherry Chan | cc4cy | Went back to Hong Kong to visit family and went on vacation to the Maldives |
 | Rossi McCall | rem8aj | Went to England with my family |
 | Claire Dowling | cmd6rh | Got a puppy! |
 | Talia Lee| tl2db | Went to Taiwan |
 | Sun Hwang | syh2qs | Went to Orlando with my friends |
 | Rhea Prahlad | rp8jd | Travelled to Australia to visit family |
-| Linda Xiong | rx5zv | Cooked |
+| Linda Xiong | rx5zv | Cooked
+| Mason Au | mda5uq | went ice fishing
+| Sarah Overton | sko3ar | Almost went to Calgary but had my flight cancelled |
+| Juan Palacio | jjp6be | Made crpyto money |
+| Chun Tseng | ct5na | Went home to see family |
+| Debbie Yoo | djy9hq | Traveled to Europe for the first time |
 | Chris Liu | cdl7an | Went to China to visit grandparents | 
