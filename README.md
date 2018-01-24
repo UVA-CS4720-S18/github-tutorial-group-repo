@@ -50,3 +50,4 @@ Everyone should create their own branch to edit this!
 | Rhea Prahlad | rp8jd | Travelled to Australia to visit family |
 | Patrick Sanders | pts5uu | Snowboarded for the first time | 
 | Linda Xiong | rx5zv | Cooked
+| Dylan Nguyen | dcn3en | Relaxed on a Florida Beach |
