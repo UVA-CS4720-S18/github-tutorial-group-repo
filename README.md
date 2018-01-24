@@ -52,3 +52,4 @@ Everyone should create their own branch to edit this!
 | Sarah Overton | sko3ar | Almost went to Calgary but had my flight cancelled |
 | Juan Palacio | jjp6be | Made crpyto money |
 | Chun Tseng | ct5na | Went home to see family |
+| Debbie Yoo | djy9hq | Traveled to Europe for the first time |
