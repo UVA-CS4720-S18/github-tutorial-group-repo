@@ -67,4 +67,5 @@ Everyone should create their own branch to edit this!
 | Mary Graham | meg5ed | went to Ohio |
 | Parisa Roohafzaii | pzr5dy | Visited New York City |
 | Michelle Huchette | mrh4fe | Interned at CAVA |
+| Daniel Thompson | djt5pf | visited South Carolina |
 
