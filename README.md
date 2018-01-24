@@ -64,3 +64,4 @@ Everyone should create their own branch to edit this!
 | Taehyun Kim | tk9at | Took J-Term During the break... |
 | Sarah Bland | scb4ga | Coded for social impact |
 | Stephen Read | sjr2dm | went to New York |
+| Mary Graham | meg5ed | went to Ohio |
