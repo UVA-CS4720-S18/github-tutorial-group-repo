@@ -54,3 +54,4 @@ Everyone should create their own branch to edit this!
 | Chun Tseng | ct5na | Went home to see family |
 | Debbie Yoo | djy9hq | Traveled to Europe for the first time |
 | Chris Liu | cdl7an | Went to China to visit grandparents | 
+| Nick Taylor | nmt4qr | Bodied some chumps in Rocket League |
