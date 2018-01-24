@@ -56,3 +56,4 @@ Everyone should create their own branch to edit this!
 | Chris Liu | cdl7an | Went to China to visit grandparents | 
 | Nick Taylor | nmt4qr | Bodied some chumps in Rocket League |
 | Mark Manahan | mmm5ja | Got a mini fridge |
+| James Childress | rjc8kt | I went to St. Lucia with my family. |
