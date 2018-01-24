@@ -47,6 +47,7 @@ Everyone should create their own branch to edit this!
 | Talia Lee| tl2db | Went to Taiwan |
 | Sun Hwang | syh2qs | Went to Orlando with my friends |
 | Rhea Prahlad | rp8jd | Travelled to Australia to visit family |
+| Patrick Sanders | pts5uu | Snowboarded for the first time | 
 | Linda Xiong | rx5zv | Cooked
 | Mason Au | mda5uq | went ice fishing
 | Sarah Overton | sko3ar | Almost went to Calgary but had my flight cancelled |
