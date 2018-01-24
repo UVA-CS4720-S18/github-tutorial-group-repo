@@ -53,3 +53,4 @@ Everyone should create their own branch to edit this!
 | Juan Palacio | jjp6be | Made crpyto money |
 | Chun Tseng | ct5na | Went home to see family |
 | Debbie Yoo | djy9hq | Traveled to Europe for the first time |
+| Chris Liu | cdl7an | Went to China to visit grandparents | 
