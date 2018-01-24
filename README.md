@@ -50,3 +50,4 @@ Everyone should create their own branch to edit this!
 | Linda Xiong | rx5zv | Cooked
 | Mason Au | mda5uq | went ice fishing
 | Sarah Overton | sko3ar | Almost went to Calgary but had my flight cancelled |
+| Juan Palacio | jjp6be | Made crpyto money |
