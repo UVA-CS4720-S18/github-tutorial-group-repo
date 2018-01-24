@@ -62,3 +62,4 @@ Everyone should create their own branch to edit this!
 | Dylan Nguyen | dcn3en | Relaxed on a Florida Beach |
 | Roman Sharykin | rs4da | Got rained on in Paris |
 | Taehyun Kim | tk9at | Took J-Term During the break... |
+| Sarah Bland | scb4ga | Coded for social impact |
