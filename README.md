@@ -65,3 +65,4 @@ Everyone should create their own branch to edit this!
 | Sarah Bland | scb4ga | Coded for social impact |
 | Stephen Read | sjr2dm | went to New York |
 | Mary Graham | meg5ed | went to Ohio |
+| Parisa Roohafzaii | pzr5dy | visited New York City |
