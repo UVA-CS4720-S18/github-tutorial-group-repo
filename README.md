@@ -51,3 +51,4 @@ Everyone should create their own branch to edit this!
 | Mason Au | mda5uq | went ice fishing
 | Sarah Overton | sko3ar | Almost went to Calgary but had my flight cancelled |
 | Juan Palacio | jjp6be | Made crpyto money |
+|Maya Retterer | mr5vc | For New Year's Day, I stayed up till 5 AM with friends working on a puzzle |
