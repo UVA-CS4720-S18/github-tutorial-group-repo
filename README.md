@@ -37,6 +37,7 @@ Everyone should create their own branch to edit this!
 | Braeden Wist | bmw2dh | Finally finished Divinity: Original Sin 2 |
 | Claire Veasey | cev4gx | Went to visit my sister and brother-in-law in the UK |
 | Katherine Yan | kjy2kh | Went snowboarding in Vermont |
+| Neel Kaushal | nk3ek | Visited India |
 | Paul Arthaud | psa3de | Went skiing a couple times |
 | Charles Yu | cy4qn | Went to Shanghai and saw New Year's fireworks in Hong Kong |
 | Gen Schmitt	| gks3bx | Went to Michigan to visit friends |
@@ -68,4 +69,3 @@ Everyone should create their own branch to edit this!
 | Parisa Roohafzaii | pzr5dy | Visited New York City |
 | Michelle Huchette | mrh4fe | Interned at CAVA |
 | Daniel Thompson | djt5pf | visited South Carolina |
-
