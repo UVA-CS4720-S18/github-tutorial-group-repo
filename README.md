@@ -38,6 +38,7 @@ Everyone should create their own branch to edit this!
 | Claire Veasey | cev4gx | Went to visit my sister and brother-in-law in the UK |
 | Katherine Yan | kjy2kh | Went snowboarding in Vermont |
 | Paul Arthaud | psa3de | Went skiing a couple times |
+| Charles Yu | cy4qn | Went to Shanghai and saw New Year's fireworks in Hong Kong |
 | Gen Schmitt	| gks3bx | Went to Michigan to visit friends |
 | Robert Fox	| rjf6tp | Visited friends in New Orleans and Birmingham |
 | Bhadra Chembukave | bhc9av | Went back to India to visit family |
@@ -58,3 +59,4 @@ Everyone should create their own branch to edit this!
 | Nick Taylor | nmt4qr | Bodied some chumps in Rocket League |
 | Mark Manahan | mmm5ja | Got a mini fridge |
 | James Childress | rjc8kt | I went to St. Lucia with my family. |
+| Dylan Nguyen | dcn3en | Relaxed on a Florida Beach |
