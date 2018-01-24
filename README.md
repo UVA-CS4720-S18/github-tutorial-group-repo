@@ -66,3 +66,5 @@ Everyone should create their own branch to edit this!
 | Stephen Read | sjr2dm | went to New York |
 | Mary Graham | meg5ed | went to Ohio |
 | Parisa Roohafzaii | pzr5dy | Visited New York City |
+| Michelle Huchette | mrh4fe | Interned at CAVA |
+
