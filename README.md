@@ -75,3 +75,4 @@ Everyone should create their own branch to edit this!
 | Elliott Kim | ek4tx | Went snowboarding |
 | Philips Samuel | pcs4fk | I spent time with visiting cousins from Canada |
 | Jiahong Chen | jc4tf | went to Seattle | 
+| Aadil Abbas | aa4zw | I went to a Wedding | 
