@@ -73,3 +73,4 @@ Everyone should create their own branch to edit this!
 | Attiya Zafar | az8wz | Was forced to learn how to cook by my mother |
 | Cristopher Serrano | cas5tu | I was in Panamá visiting family & traveling |
 | Elliott Kim | ek4tx | Went snowboarding |
+| Philips Samuel | pcs4fk | I spent time with visiting cousins from Canada |
