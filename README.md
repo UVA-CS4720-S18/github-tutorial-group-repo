@@ -72,3 +72,4 @@ Everyone should create their own branch to edit this!
 | Dan Rose | djr8yk | Split firewood. A lot of firewood. |
 | Attiya Zafar | az8wz | Was forced to learn how to cook by my mother |
 | Cristopher Serrano | cas5tu | I was in Panamá visiting family & traveling |
+| Elliott Kim | ek4tx | Went snowboarding |
