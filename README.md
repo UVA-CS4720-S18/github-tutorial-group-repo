@@ -74,4 +74,5 @@ Everyone should create their own branch to edit this!
 | Cristopher Serrano | cas5tu | I was in Panamá visiting family & traveling |
 | Elliott Kim | ek4tx | Went snowboarding |
 | Philips Samuel | pcs4fk | I spent time with visiting cousins from Canada |
+| Colvin Miklovic | crm4ur | I worked at Harris |
 | Aadil Abbas | aa4zw | I went to a Wedding | 
