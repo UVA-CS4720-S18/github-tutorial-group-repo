@@ -69,3 +69,4 @@ Everyone should create their own branch to edit this!
 | Parisa Roohafzaii | pzr5dy | Visited New York City |
 | Michelle Huchette | mrh4fe | Interned at CAVA |
 | Daniel Thompson | djt5pf | visited South Carolina |
+| Dan Rose | djr8yk | Split firewood. A lot of firewood. |
