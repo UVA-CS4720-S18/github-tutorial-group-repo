@@ -76,4 +76,5 @@ Everyone should create their own branch to edit this!
 | Philips Samuel | pcs4fk | I spent time with visiting cousins from Canada |
 | Colvin Miklovic | crm4ur | I worked at Harris |
 | Aadil Abbas | aa4zw | I went to a Wedding | 
-| Jiahong Chen | jc4tf | went to Seattle | 
+| Jiahong Chen | jc4tf | went to Seattle |
+| Sam Prescott | sbp9as | I took up yoga. It's great! | 
