@@ -77,4 +77,4 @@ Everyone should create their own branch to edit this!
 | Colvin Miklovic | crm4ur | I worked at Harris |
 | Aadil Abbas | aa4zw | I went to a Wedding | 
 | Jiahong Chen | jc4tf | went to Seattle |
-| Sam Prescott | sbp9as | I took up yoga. It's great! | 
+| Sam Prescott | sbp9as | I took up yoga. It's really great! | 
